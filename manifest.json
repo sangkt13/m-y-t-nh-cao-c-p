@@ -1,0 +1,17 @@
+{
+  "name": "FX-900 MultiGraph",
+  "short_name": "FX-900 MultiGraph",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "description": "Máy tính khoa học, giải phương trình và vẽ nhiều đồ thị cùng lúc.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/258/258392.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
