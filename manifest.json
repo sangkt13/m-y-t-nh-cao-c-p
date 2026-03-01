@@ -1,24 +1,23 @@
 {
   "name": "FX-900 MultiGraph",
   "short_name": "FX-900",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
-  "description": "Máy tính khoa học + giải phương trình + vẽ đồ thị.",
+  "description": "Máy tính khoa học đa chức năng: Giải phương trình, vẽ đồ thị, tính đạo hàm.",
   "icons": [
     {
-      "src": "./icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "./icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
